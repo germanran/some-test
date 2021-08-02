@@ -1,0 +1,12 @@
+/Users/rangerman/Developer/C#/udemyCourse/udemyCourse/bin/Debug/netcoreapp3.1/udemyCourse.deps.json
+/Users/rangerman/Developer/C#/udemyCourse/udemyCourse/bin/Debug/netcoreapp3.1/udemyCourse.runtimeconfig.json
+/Users/rangerman/Developer/C#/udemyCourse/udemyCourse/bin/Debug/netcoreapp3.1/udemyCourse.runtimeconfig.dev.json
+/Users/rangerman/Developer/C#/udemyCourse/udemyCourse/bin/Debug/netcoreapp3.1/udemyCourse.dll
+/Users/rangerman/Developer/C#/udemyCourse/udemyCourse/bin/Debug/netcoreapp3.1/udemyCourse.pdb
+/Users/rangerman/Developer/C#/udemyCourse/udemyCourse/obj/Debug/netcoreapp3.1/udemyCourse.csproj.AssemblyReference.cache
+/Users/rangerman/Developer/C#/udemyCourse/udemyCourse/obj/Debug/netcoreapp3.1/udemyCourse.AssemblyInfoInputs.cache
+/Users/rangerman/Developer/C#/udemyCourse/udemyCourse/obj/Debug/netcoreapp3.1/udemyCourse.AssemblyInfo.cs
+/Users/rangerman/Developer/C#/udemyCourse/udemyCourse/obj/Debug/netcoreapp3.1/udemyCourse.csproj.CoreCompileInputs.cache
+/Users/rangerman/Developer/C#/udemyCourse/udemyCourse/obj/Debug/netcoreapp3.1/udemyCourse.dll
+/Users/rangerman/Developer/C#/udemyCourse/udemyCourse/obj/Debug/netcoreapp3.1/udemyCourse.pdb
+/Users/rangerman/Developer/C#/udemyCourse/udemyCourse/obj/Debug/netcoreapp3.1/udemyCourse.genruntimeconfig.cache
